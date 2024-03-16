@@ -6,18 +6,18 @@
 - 🌱  Born and Raised in Jizakh
 - 🏢  BSc'25 | BIS| Westminster International University in Tashkent (WIUT)
 -  📍  Based in Tashkent
-- 💼  Learning and Working on an exciting project for an Eco club of WIUT as a Junior Researcher and Data Enthuasist
+- 💼  Learning and Working on an exciting project for an Eco club of WIUT as a Junior Researcher and Data Enthusiast
 - 🔭  Currently deepening in Data 
-- 🧠  Enthusiast in exploring the intersections of **Tech**, **Computational Neuroscience** and **Consiousness Business**
-- 🧘🏻‍♀️  Enjoy doing yoga and Walking around City bring me peace
-- ✍️  Constructive writing helps me to think clearly [a piece of writings](https://www.linkedin.com/pulse/unconscious-becomes-conscious-zaynab-soyokulova/)
+- 🧠  Enthusiast in exploring the intersections of **Tech**, **Computational Neuroscience** and **Consciousness Business**
+- 🧘🏻‍♀️  Enjoy doing yoga and Walking around the City brings me peace
+- ✍️  Constructive writing helps me to think clearly [a piece of writing](https://www.linkedin.com/pulse/unconscious-becomes-conscious-zaynab-soyokulova/)
 
 ## 🕵🏻‍♀️ Work Experience
 - **Librarian** | Team Language Center | 2016-2018
 - **Translator** | Khan Academy Uzbek  |  05/2019-09/2019
   | Translated different subjects into Uzbek language
 - **Graphic Designer** | Crave | [TBC-Ornaments](https://tbc-ornaments.uz/) project | 06/2021-07/2023
-  | Eye to Details, Created Mockups, Vectorized illustrations
+  | Eye to Detail, Created Mockups, Vectorized illustrations
 - **Entry-level UX/UI Designer** | [Argue](https://www.figma.com/file/2hwgObRTqmrystdDsjP83J/ARG?type=design&node-id=2316%3A30665&mode=design&t=cD3eNpGMbeYvzFHo-1) project, Brazilian Startup | Freelancing | 2021-2022
 - **Graphic Designer** | Agro Finans Lizing | [Portfolio](https://www.notion.so/aurorazeyn/Portfolio-87ca5e1282f74d9987a571fd5983c50a?pvs=4) | 08/2022-09/2023
 | Created Mockups, Designed Calendars | Notebooks | Presentations | SM Posts 
@@ -31,7 +31,7 @@
 - Excel - Basics
 - UX | UI design concepts - Strong
 - Project Management - Basics
-- Notion, Trello, Photoshop , Illustrator, Figma - Advanced user
+- Notion, Trello, Photoshop, Illustrator, Figma - Advanced user
 
 ## 🌼 Soft Skills
 - Communication
@@ -47,11 +47,11 @@
 
 ## 🎖 Achievements
 **Republican Forum of Young Artists** | 01/2018
-- Organized Republican Forum of Young Artists with a Team under Youth Officials Organization
+- Organized Republican Forum of Young Artists with a Team under the Youth Officials Organization
 - Managed a group of participants (A winner group)
   [photo](https://scontent.ftas11-1.fna.fbcdn.net/v/t1.18169-9/22365208_944682859021582_5429686783486458251_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ZRtH8YZJOm8AX8LKRgP&_nc_ht=scontent.ftas11-1.fna&oh=00_AfDp3V0PlzwuA_XqKF-DcBUXAbC9e-_bSGl-hG7AmmA4yg&oe=661D3963)
 
-**GPT Hackaton** | [Certificate](https://media.licdn.com/dms/image/D4D2DAQGG56PYmRiuMQ/profile-treasury-image-shrink_800_800/0/1709739140105?e=1711213200&v=beta&t=w_vygLpT8jaI4fPjjxMsI-zzlrl0DwEt4zMv_oHbF9U) | 02/2023
+**GPT Hackathon** | [Certificate](https://media.licdn.com/dms/image/D4D2DAQGG56PYmRiuMQ/profile-treasury-image-shrink_800_800/0/1709739140105?e=1711213200&v=beta&t=w_vygLpT8jaI4fPjjxMsI-zzlrl0DwEt4zMv_oHbF9U) | 02/2023
 - We developed with a team of two people, a consultancy app called "Hypersono" which has features of
 give a helping hand to young people who
 - seek career advice
@@ -73,7 +73,7 @@ The problem was the young people who reside in villages and other edges of the r
  - Volunteered in the "International Youth Summit - 2017
 
 **Women in Techmakers** | 2022-Present
-- Brainstromed the events with a team
+- Brainstormed the events with a team
 - Volunteered in the organized events
 
 **IT Community of Uzbekistan + Women in Tech** | 2023-Present
@@ -82,7 +82,7 @@ The problem was the young people who reside in villages and other edges of the r
 - Brainstormed tech ideas with a team
 - Organized GPT Hackatons and Organizing future upcoming events 
 
-## :electron: Languages
+## ⚛️ Languages
 - Uzbek - Native
 - Russian - Intermediate
 - English - Advanced
