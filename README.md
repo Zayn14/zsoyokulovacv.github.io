@@ -16,11 +16,11 @@
 - **Librarian** - Team Language Center - 2016-2018
 - **Translator** - Khan Academy Uzbek  -  05/2019-09/2019
   - Translated different subjects into Uzbek language
-- **Graphic Designer** - Crave - [TBC-Ornaments](https://tbc-ornaments.uz/) project | 06/2021-07/2023
+- **Graphic Designer** - Crave - [TBC-Ornaments](https://tbc-ornaments.uz/) project - 06/2021-07/2023
   - Eye to Detail, Created Mockups
   - Vectorized illustrations
 - **Entry-level UX/UI Designer** - [Argue](https://www.figma.com/file/2hwgObRTqmrystdDsjP83J/ARG?type=design&node-id=2316%3A30665&mode=design&t=cD3eNpGMbeYvzFHo-1) project, Brazilian Startup - Freelancing - 2021-2022
-- **Graphic Designer** - Agro Finans Lizing - [Portfolio](https://www.notion.so/aurorazeyn/Portfolio-87ca5e1282f74d9987a571fd5983c50a?pvs=4) | 08/2022-09/2023
+- **Graphic Designer** - Agro Finans Lizing - [Portfolio](https://www.notion.so/aurorazeyn/Portfolio-87ca5e1282f74d9987a571fd5983c50a?pvs=4) - 08/2022-09/2023
    - Created Mockups
    - Designed Calendars, Notebooks, Presentations, SM Posts & Videos 
 - **Product Manager** - WeInvest Capital - NY, USA - Online internship - 04/2023-07/2023
@@ -28,13 +28,13 @@
    - Conducted user interviews and surveys
    - Customer Development, Market research
    - Competitors analysis
-- **UX/UI Designer** - Upwork - [Inkleaf](https://www.figma.com/file/mgyughXN9SdhDgeXVdgEFV/InkLeaf?type=design&node-id=0%3A1&mode=design&t=l76sLjBe1oWceYqJ-1) | Timely project
+- **UX/UI Designer** - Upwork - [Inkleaf](https://www.figma.com/file/mgyughXN9SdhDgeXVdgEFV/InkLeaf?type=design&node-id=0%3A1&mode=design&t=l76sLjBe1oWceYqJ-1) - Timely project
 
 
 ## 🛠 Hard Skills
 - HTML, CSS, JavaScript, Python, SQL - Basics
 - Excel - Basics
-- UX | UI design concepts - Strong
+- UX / UI design concepts - Strong
 - Project Management - Basics
 - Notion, Trello, Photoshop, Illustrator, Figma - Advanced user
 
