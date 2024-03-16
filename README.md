@@ -4,8 +4,8 @@
 
 ## 👩🏻‍💻 About Me
 - 🌱  Born and Raised in Jizakh
-- 🏢  BSc'25 | BIS| Westminster International University in Tashkent (WIUT)
--  📍  Based in Tashkent
+- 🏢  BSc'25 - BIS - Westminster International University in Tashkent (WIUT)
+- 📍   Based in Tashkent
 - 💼  Learning and Working on an exciting project for an Eco club of WIUT as a Junior Researcher and Data Enthusiast
 - 🔭  Currently deepening in Data 
 - 🧠  Enthusiast in exploring the intersections of **Tech**, **Computational Neuroscience** and **Consciousness Business**
@@ -13,17 +13,22 @@
 - ✍️  Constructive writing helps me to think clearly [a piece of writing](https://www.linkedin.com/pulse/unconscious-becomes-conscious-zaynab-soyokulova/)
 
 ## 🕵🏻‍♀️ Work Experience
-- **Librarian** | Team Language Center | 2016-2018
-- **Translator** | Khan Academy Uzbek  |  05/2019-09/2019
-  | Translated different subjects into Uzbek language
-- **Graphic Designer** | Crave | [TBC-Ornaments](https://tbc-ornaments.uz/) project | 06/2021-07/2023
-  | Eye to Detail, Created Mockups, Vectorized illustrations
-- **Entry-level UX/UI Designer** | [Argue](https://www.figma.com/file/2hwgObRTqmrystdDsjP83J/ARG?type=design&node-id=2316%3A30665&mode=design&t=cD3eNpGMbeYvzFHo-1) project, Brazilian Startup | Freelancing | 2021-2022
-- **Graphic Designer** | Agro Finans Lizing | [Portfolio](https://www.notion.so/aurorazeyn/Portfolio-87ca5e1282f74d9987a571fd5983c50a?pvs=4) | 08/2022-09/2023
-| Created Mockups, Designed Calendars | Notebooks | Presentations | SM Posts 
-- **Product Manager** | WeInvest Capital - NY, USA | Online internship | 04/2023-07/2023
-- Market | User Research, Conducted user interviews and surveys, Customer Development, Market research, Competitors analysis
-- **UX/UI Designer** | Upwork | [Inkleaf](https://www.figma.com/file/mgyughXN9SdhDgeXVdgEFV/InkLeaf?type=design&node-id=0%3A1&mode=design&t=l76sLjBe1oWceYqJ-1) | Timely project
+- **Librarian** - Team Language Center - 2016-2018
+- **Translator** - Khan Academy Uzbek  -  05/2019-09/2019
+  - Translated different subjects into Uzbek language
+- **Graphic Designer** - Crave - [TBC-Ornaments](https://tbc-ornaments.uz/) project | 06/2021-07/2023
+  - Eye to Detail, Created Mockups
+  - Vectorized illustrations
+- **Entry-level UX/UI Designer** - [Argue](https://www.figma.com/file/2hwgObRTqmrystdDsjP83J/ARG?type=design&node-id=2316%3A30665&mode=design&t=cD3eNpGMbeYvzFHo-1) project, Brazilian Startup - Freelancing - 2021-2022
+- **Graphic Designer** - Agro Finans Lizing - [Portfolio](https://www.notion.so/aurorazeyn/Portfolio-87ca5e1282f74d9987a571fd5983c50a?pvs=4) | 08/2022-09/2023
+   - Created Mockups
+   - Designed Calendars, Notebooks, Presentations, SM Posts & Videos 
+- **Product Manager** - WeInvest Capital - NY, USA - Online internship - 04/2023-07/2023
+   - Market/User Research
+   - Conducted user interviews and surveys
+   - Customer Development, Market research
+   - Competitors analysis
+- **UX/UI Designer** - Upwork - [Inkleaf](https://www.figma.com/file/mgyughXN9SdhDgeXVdgEFV/InkLeaf?type=design&node-id=0%3A1&mode=design&t=l76sLjBe1oWceYqJ-1) | Timely project
 
 
 ## 🛠 Hard Skills
@@ -38,7 +43,7 @@
 - Problem-solving
 - Analytical Thinking
 - Critical Thinking
--  Planning / Research
+- Planning / Research
 - Adaptability
 - Leadership
 - Emotional Intelligence
