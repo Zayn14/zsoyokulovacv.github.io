@@ -51,7 +51,7 @@
 - Managed a group of participants (A winner group)
   [photo](https://scontent.ftas11-1.fna.fbcdn.net/v/t1.18169-9/22365208_944682859021582_5429686783486458251_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ZRtH8YZJOm8AX8LKRgP&_nc_ht=scontent.ftas11-1.fna&oh=00_AfDp3V0PlzwuA_XqKF-DcBUXAbC9e-_bSGl-hG7AmmA4yg&oe=661D3963)
 
-**GPT Hackaton** | [Certificate](https://media.licdn.com/dms/image/D4D2DAQGG56PYmRiuMQ/profile-treasury-image-shrink_800_800/0/1709739140105?e=1711213200&v=beta&t=w_vygLpT8jaI4fPjjxMsI-zzlrl0DwEt4zMv_oHbF9U) |02/2023
+**GPT Hackaton** | [Certificate](https://media.licdn.com/dms/image/D4D2DAQGG56PYmRiuMQ/profile-treasury-image-shrink_800_800/0/1709739140105?e=1711213200&v=beta&t=w_vygLpT8jaI4fPjjxMsI-zzlrl0DwEt4zMv_oHbF9U) | 02/2023
 - We developed with a team of two people, a consultancy app called "Hypersono" which has features of
 give a helping hand to young people who
 - seek career advice
