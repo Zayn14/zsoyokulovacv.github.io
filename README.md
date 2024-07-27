@@ -7,7 +7,7 @@
 - 🏢  BSc'25 - BIS - Westminster International University in Tashkent (WIUT)
 - 📍  Based in Tashkent
 - 💼  Learning and Working on an exciting project for an Eco club of WIUT as a Junior Researcher and Data Enthusiast
-- 🧠  Enthusiast in exploring the intersections of **Tech**, **Computational Neuroscience** and **Conscious Business**
+- 🧠  Enthusiast in exploring the intersections of **Tech**, **Computational Neuroscience/BCI/NeuroTech** and **Conscious Business**
 - 🧘🏻‍♀️  Enjoy doing yoga and Walking around the City brings me peace
 - ✍️  Constructive thinking and writing help me to think clearly [a piece of writing](https://www.linkedin.com/pulse/unconscious-becomes-conscious-zaynab-soyokulova/)
 
@@ -71,8 +71,8 @@ The problem was the young people who reside in villages and other edges of the r
 - Math
 - Programming skills
 
-**Neuromatch Academy - Computational Neuroscience course** | 08.07.24-26.02.24
-As a curious being in a computational neuroscience course, I have been deeply engaged in exploring the complexities of the brain and its functions. My participation in the Neuromatch Academy has provided me with a solid foundation in computational neuroscience, equipping me with the skills to analyze and interpret neural data using advanced computational methods. I am passionate about integrating my knowledge of neuroscience with cutting-edge technology to contribute to understanding brain dynamics and neural computation.
+**Neuromatch Academy - Computational Neuroscience course** | **08.07.24-26.02.24**
+As a curious being in a computational neuroscience course, I have been deeply engaged in exploring the complexities of the brain and its functions. My participation in the Neuromatch Academy has provided me with a solid foundation in computational neuroscience, equipping me with the skills to analyze and interpret neural data using advanced computational methods. I am passionate about integrating neuroscience knowledge with cutting-edge technology to contribute to understanding brain dynamics and neural computation.
 
 ## 🌋 Volunteering
 **Young Leader Development Project (YLDP)** | 2017-2018
