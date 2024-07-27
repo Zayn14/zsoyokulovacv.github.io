@@ -31,11 +31,9 @@
 
 
 ## 🛠 Hard Skills
-- HTML, CSS, JavaScript, Python, SQL - Basics
+- Python, SQL - Basics
 - Excel - Basics
-- UX / UI design concepts - Strong
-- Project Management - Basics
-- Notion, Trello, Photoshop, Illustrator, Figma - Advanced user
+- Notion, Trello, Photoshop, Illustrator, Figma 
 
 ## 🌼 Soft Skills
 - Communication
@@ -50,12 +48,7 @@
 - Resilience
 
 ## 🎖 Achievements
-**Republican Forum of Young Artists** | 01/2018
-- Organized Republican Forum of Young Artists with a Team under the Youth Officials Organization
-- Managed a group of participants (A winner group)
-  [photo](https://scontent.ftas11-1.fna.fbcdn.net/v/t1.18169-9/22365208_944682859021582_5429686783486458251_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ZRtH8YZJOm8AX8LKRgP&_nc_ht=scontent.ftas11-1.fna&oh=00_AfDp3V0PlzwuA_XqKF-DcBUXAbC9e-_bSGl-hG7AmmA4yg&oe=661D3963)
-
-**GPT Hackathon** | [Certificate](https://media.licdn.com/dms/image/D4D2DAQGG56PYmRiuMQ/profile-treasury-image-shrink_800_800/0/1709739140105?e=1711213200&v=beta&t=w_vygLpT8jaI4fPjjxMsI-zzlrl0DwEt4zMv_oHbF9U) | 02/2023
+**GPT Hackathon** | [Certificate](https://media.licdn.com/dms/image/D4D2DAQGG56PYmRiuMQ/profile-treasury-image-shrink_800_800/0/1709739140105?e=1711213200&v=beta&t=w_vygLpT8jaI4fPjjxMsI-zzlrl0DwEt4zMv_oHbF9U) | **02/2023**
 - We developed with a team of two people, a consultancy app called "Hypersono" which has features of
 give a helping hand to young people who
 - seek career advice
@@ -65,13 +58,21 @@ give a helping hand to young people who
 by integrating the academic and self-development books to produce GPT prompts that command in audio, video and text format.
 The problem was the young people who reside in villages and other edges of the regions where there are no available helpful sources that they can access
 
-**Problem Solving International Hackathon 2024** | [Certificate](https://media.licdn.com/dms/image/D4D2DAQF4jOrtQ9VHmw/profile-treasury-document-cover-images_1280/0/1709738960973?e=1711213200&v=beta&t=pVpBD2zZ0bux9ZBl4bpazMOGFQg5IRtd_D9RUw0dYU0) | 02/2024
+**Problem Solving International Hackathon 2024** | [Certificate](https://media.licdn.com/dms/image/D4D2DAQF4jOrtQ9VHmw/profile-treasury-document-cover-images_1280/0/1709738960973?e=1711213200&v=beta&t=pVpBD2zZ0bux9ZBl4bpazMOGFQg5IRtd_D9RUw0dYU0) | **02/2024**
 - We participated with our team and tested our
 - Logical thinking
 - Math
 - Programming skills
 
-**Neuromatch Academy - Computational Neuroscience course** | **08.07.24-26.02.24**
+**BCI & Neurotechnology 2024 Spring School** | **22/04/24-01/05/24**
+- My participation in the g.tec Spring School 2024 has provided me with hands-on experience and advanced knowledge in the field of BCI. This program has allowed me to understand about cutting-edge technology and innovative methods, enhancing my skills in developing and implementing neurotechnology solutions.
+
+**Brain-Computer Interface Designer's Hackathon 2024** | **22/04/24-01/05/24**
+- Participated with an international team of 5 people in the Brain-Computer Interface Designer's Hackathon during the BCI & Neurotechnology Spring School 2024 organized by g.tech-medical engineering.
+- Merged two worlds, using a procedural modelling workflow from 3D art and EEG recordings of a person listening to music. 
+- Created a painting tool for 3D artists to play around and have fun with data.
+
+**Neuromatch Academy - Computational Neuroscience course** | **08/07/24-26/02/24**
 As a curious being in a computational neuroscience course, I have been deeply engaged in exploring the complexities of the brain and its functions. My participation in the Neuromatch Academy has provided me with a solid foundation in computational neuroscience, equipping me with the skills to analyze and interpret neural data using advanced computational methods. I am passionate about integrating neuroscience knowledge with cutting-edge technology to contribute to understanding brain dynamics and neural computation.
 
 ## 🌋 Volunteering
