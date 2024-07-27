@@ -66,7 +66,7 @@ giving a helping hand to young people who seek career, financial, health, and ed
 - Merged two worlds, using a procedural modelling workflow from 3D art and EEG recordings of a person listening to music. 
 - Created a painting tool for 3D artists to play around and have fun with data.
 
-**Neuromatch Academy - Computational Neuroscience course** | **08/07/24-26/02/24**
+**Neuromatch Academy - Computational Neuroscience course** | **08/07/24-26/07/24**
 - As a curious being in a computational neuroscience course, I have been deeply engaged in exploring the complexities of the brain and its functions. My participation in the Neuromatch 
   Academy has provided me with a solid foundation in computational neuroscience, equipping me with the skills to analyze and interpret neural data using advanced computational methods. 
   I am passionate about integrating neuroscience knowledge with cutting-edge technology to contribute to understanding brain dynamics and neural computation.
