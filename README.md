@@ -5,7 +5,7 @@
 - 🌱  Born and Raised in Jizakh
 - 🏢  BSc'25 - BIS - Westminster International University in Tashkent (WIUT)
 - 📍  Based in Tashkent
-- 💼  Learning and Working on an exciting project for an Eco club of WIUT as a Junior Researcher and Data Enthusiast
+- 💼  Learning and Participating in an exciting project for an Eco club of WIUT as a Junior Researcher and Data Enthusiast
 - 🧠  Enthusiast in exploring the intersections of **Tech**, **Computational Neuroscience/BCI/NeuroTech** and **Conscious Business**
 - 🧘🏻‍♀️  Enjoy doing yoga and Walking around the City brings me peace
 - ✍️  Constructive thinking and writing help me to think clearly [a piece of writing](https://www.linkedin.com/pulse/unconscious-becomes-conscious-zaynab-soyokulova/)
