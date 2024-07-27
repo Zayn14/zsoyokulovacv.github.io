@@ -1,6 +1,5 @@
 # 👋 Hey there! I'm Zaynab
-👽[Linkedin](https://www.linkedin.com/in/zaynab-soyokulova/)  / 📧 [Gmail](https://mail.google.com/mail/u/soyoqulova@gmail.com) / 💽 [Discord](https://discordapp.com/users/1052815197422751805) / 
-🕵️‍♀️ [Github](https://github.com/aurorazeyn) / 🛰️ [Telegram](https://t.me/aurorazeyn) 
+👽[Linkedin](https://www.linkedin.com/in/zaynab-soyokulova/)  / 📧 [Gmail](https://mail.google.com/mail/u/soyoqulova@gmail.com) / 💽 [Discord](https://discordapp.com/users/1052815197422751805) / 🛰️ [Telegram](https://t.me/aurorazeyn) 
 
 ## 👩🏻‍💻 About Me
 - 🌱  Born and Raised in Jizakh
