@@ -50,13 +50,7 @@
 ## 🎖 Achievements
 **GPT Hackathon** | [Certificate](https://media.licdn.com/dms/image/D4D2DAQGG56PYmRiuMQ/profile-treasury-image-shrink_800_800/0/1709739140105?e=1711213200&v=beta&t=w_vygLpT8jaI4fPjjxMsI-zzlrl0DwEt4zMv_oHbF9U) | **02/2023**
 - We developed with a team of two people, a consultancy app called "Hypersono" which has features of
-give a helping hand to young people who
-- seek career advice
-- financial advice
-- health advice
-- education advice
-by integrating the academic and self-development books to produce GPT prompts that command in audio, video and text format.
-The problem was the young people who reside in villages and other edges of the regions where there are no available helpful sources that they can access
+giving a helping hand to young people who seek career, financial, health, and education recommendations by integrating the academic and self-development books to produce GPT prompts that command in audio, video and text format. The problem was the young people who reside in villages and other edges of the regions where there are no available helpful sources that they can access
 
 **Problem Solving International Hackathon 2024** | [Certificate](https://media.licdn.com/dms/image/D4D2DAQF4jOrtQ9VHmw/profile-treasury-document-cover-images_1280/0/1709738960973?e=1711213200&v=beta&t=pVpBD2zZ0bux9ZBl4bpazMOGFQg5IRtd_D9RUw0dYU0) | **02/2024**
 - We participated with our team and tested our
@@ -65,7 +59,7 @@ The problem was the young people who reside in villages and other edges of the r
 - Programming skills
 
 **BCI & Neurotechnology 2024 Spring School** | **22/04/24-01/05/24**
-- My participation in the g.tec Spring School 2024 has provided me with hands-on experience and advanced knowledge in the field of BCI. This program has allowed me to understand about cutting-edge technology and innovative methods, enhancing my skills in developing and implementing neurotechnology solutions.
+- My participation in the g.tec Spring School 2024 has provided me with hands-on experience and advanced knowledge in the field of BCI. This program has allowed me to understand cutting-edge technology and innovative methods, enhancing necessary skills in developing and implementing neurotechnology solutions.
 
 **Brain-Computer Interface Designer's Hackathon 2024** | **22/04/24-01/05/24**
 - Participated with an international team of 5 people in the Brain-Computer Interface Designer's Hackathon during the BCI & Neurotechnology Spring School 2024 organized by g.tech-medical engineering.
@@ -79,10 +73,6 @@ As a curious being in a computational neuroscience course, I have been deeply en
 **Young Leader Development Project (YLDP)** | 2017-2018
  - Participated in organizing the events in YLDP
  - Volunteered in the "International Youth Summit - 2017
-
-**Women in Techmakers** | 2022-Present
-- Brainstormed the events with a team
-- Volunteered in the organized events
 
 **IT Community of Uzbekistan + Women in Tech** | 2023-Present
 - Participated as a graphic designer
