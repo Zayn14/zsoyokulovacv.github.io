@@ -73,10 +73,8 @@
  - Volunteered in the "International Youth Summit - 2017
 
 **IT Community of Uzbekistan ** | 2023-2024
-- Participated as a graphic designer
-- Designed stickers, posts, gift packages etc.
-- Brainstormed tech ideas with a team
-- Organised GPT Hackatons and Organised future upcoming events 
+- Designed stickers, posts, and gift packages for the Women in Tech event.
+- Participated in some volunteering activities
 
 ## ⚛️ Languages
 - Uzbek - Native
