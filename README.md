@@ -47,9 +47,6 @@
 - Resilience
 
 ## 🎖 Achievements
-**GPT Hackathon** | [Certificate](https://media.licdn.com/dms/image/D4D2DAQGG56PYmRiuMQ/profile-treasury-image-shrink_800_800/0/1709739140105?e=1711213200&v=beta&t=w_vygLpT8jaI4fPjjxMsI-zzlrl0DwEt4zMv_oHbF9U) | **02/2023**
-- We developed with a team of two people, a consultancy app called "Hypersono" which has features of
-giving a helping hand to young people who seek career, financial, health, and education recommendations by integrating the academic and self-development books to produce GPT prompts that command in audio, video and text format. The problem was the young people who reside in villages and other edges of the regions where there are no available helpful sources that they can access
 
 **Problem Solving International Hackathon 2024** | [Certificate](https://media.licdn.com/dms/image/D4D2DAQF4jOrtQ9VHmw/profile-treasury-document-cover-images_1280/0/1709738960973?e=1711213200&v=beta&t=pVpBD2zZ0bux9ZBl4bpazMOGFQg5IRtd_D9RUw0dYU0) | **02/2024**
 - We participated with our team and tested our
@@ -75,7 +72,7 @@ giving a helping hand to young people who seek career, financial, health, and ed
  - Participated in organizing the events in YLDP
  - Volunteered in the "International Youth Summit - 2017
 
-**IT Community of Uzbekistan + Women in Tech** | 2023-Present
+**IT Community of Uzbekistan ** | 2023-2024
 - Participated as a graphic designer
 - Designed stickers, posts, gift packages etc.
 - Brainstormed tech ideas with a team
